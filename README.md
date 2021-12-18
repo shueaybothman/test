@@ -1,2 +1,6 @@
 # test
-some code I write last time
+some code JavaScript I wrote last time.
+let name = ("othman");
+  age=30;
+  console.log("name")
+  
